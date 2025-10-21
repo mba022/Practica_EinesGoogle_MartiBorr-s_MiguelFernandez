@@ -2,4 +2,6 @@
 
 - **obrir la presentació més recent**
  ---
--[Form link](https://docs.google.com/forms/d/e/1FAIpQLSeARmyHucrvCpLM50bzzVsWkCjRHWF_UT_OOZHiWRhafmexjA/viewform?usp=header)
+[Form link](https://docs.google.com/forms/d/e/1FAIpQLSeARmyHucrvCpLM50bzzVsWkCjRHWF_UT_OOZHiWRhafmexjA/viewform?usp=header)
+___
+[Presentació](Conversióbinari-decimal-hexadecimal-octal.pdf)
