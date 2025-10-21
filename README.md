@@ -4,4 +4,4 @@
  ---
 [Form link](https://docs.google.com/forms/d/e/1FAIpQLSeARmyHucrvCpLM50bzzVsWkCjRHWF_UT_OOZHiWRhafmexjA/viewform?usp=header)
 ___
-[Presentació](Conversióbinari-decimal-hexadecimal-octal.pdf)
+[Presentació](Conversió-binari-decimal-hexadecimal-octal.pdf)
